@@ -96,6 +96,7 @@ These are plugins that add extra functionality to DocPad:
 - [text](/plugin/text/) - Render templateData properties without needing template engine, useful for abstraction in configuration files
 - [thumbnails](https://github.com/rantecki/docpad-plugin-thumbnails) - Manages thumbnail generation of your image files
 - [umd](/plugin/umd/) - Wrap specified JavaScript documents in the Universal Module Definition (UMD) allowing them to run in AMD, Require.js, CommonJS/Node.js and Vanilla environments automatically
+- [emailobfuscator](https://github.com/bertvh/docpad-plugin-emailobfuscator) - Adds a function to check and obfuscate emailaddresses (using munge).
 
 
 ## Deployers
